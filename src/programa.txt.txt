@@ -1,0 +1,30 @@
+#PROYECTO01 - REPOSITORIO GITHUB#
+
+## INTRODUCCIÓN
+Github es un repositorio online gratuito que se utiliza para gestionar proyectos y controlar versiones de código, permitiendo a los desarrolladores administrar cambios en un software a la vez que el proyecto evoluciona. Es muy utilizado por desarrolladores para almacenar sus trabajos dando así la oportunidad a millones de personas de todo el mundo a cooperar en ellos.
+
+## INSTALACIÓN
+Para instalar el programa GitHub, simplemente hay que descargarlo en la página oficial de GitHub, aceptar todas las opciones por defecto y finalizar la instalación. Seguidamente, se crea una cuenta github con un correo electronico y una contraseña, adémas de elegir si quieres que sea privado o público, en nuestro caso, lo dejaremos público. En la parte superior derecha nos sale la opción de crear un repositorio y automaticamente, nos aparecen los comandos que debemos poner en PowerShell.
+
+## POWERSHELL
+Abrimos Windows PowerShell y comenzamos la secuencia de comandos:
+
+echo "# proyecto01" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/cbegrol/proyecto01.git
+git push -u origin main
+
+Una vez terminado la secuencia de comandos, el repositorio se crea correctamente si todo está bien hecho.
+
+Nos pedirá conectar con GitHub y tendremos que acceder mediante nuestra cuenta. Al autorizar, se sube directamente la información al repositorio
+
+## INFORMACIÓN ADICIONAL
+🧾Puedes encontrar más información en páginas como:
+https://kinsta.com/es/base-de-conocimiento/que-es-github/
+https://docs.microsoft.com/es-es/powershell/scripting/gallery/how-to/working-with-local-psrepositories?view=powershell-7.1
+https://docs.github.com/es/github/getting-started-with-github/quickstart/create-a-repo
+https://github.com/
+
