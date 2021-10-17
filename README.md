@@ -1,4 +1,4 @@
-# proyecto01.
+# Proyecto 01
 👋 Hola, soy Consuelo Begines Roldán
 👀 Estoy interesada en saber diseñar y construir bases de datos relacionales. Conocer los conceptos y las habilidades de diseño físico de las bases de datos. Saber manejar bases de datos a través de lenguajes de consulta. Conocer las funcionalidades de los Sistemas de Gestión de Bases de Datos. Y muy importante, estoy interesada en saber programar y conocer todos los ámbitos de la Informática.
 🌱 Actualmente estoy haciendo un curso de DAM (Desarrollo de Aplicaciones Multiplataforma) y este es mi primer proyecto para la asignatura de Gestión de Base de Datos, que imparte uno de los mejores profesores de toda Sevilla, Adolfo Salto.
